@@ -7,7 +7,7 @@ Implemented algorithms:
 2) Selection sort
 3) Insertion sort
 4) Merge sort
-5) Quick sort
+
 6) Heap sort
 
 Features:
@@ -22,4 +22,4 @@ Features:
   2.3) Generation of new data (Randomly generate new data).
 4) Time and Space complexity of algorithm being visualized.
 
-Take a look at live version: https://kethantummala.github.io/Sorting_Visualizer/
+
